@@ -17,6 +17,16 @@ const skills = [
 
 const experience = [
   {
+    role: 'DevOps COE Member',
+    company: 'InfraFlow',
+    period: '2026 - Presente',
+    bullets: [
+      'Fui ascendido al equipo DevOps COE, un grupo central de excelencia enfocado en estandarizar prácticas, acelerar la adopción de automatización y elevar la confiabilidad de las plataformas.',
+      'Colaboro con múltiples squads para definir patrones reutilizables de infraestructura, seguridad y delivery continuo en toda la organización.',
+      'Impulso iniciativas transversales de observabilidad, gobierno técnico y mejora continua para escalar operaciones con consistencia.'
+    ]
+  },
+  {
     role: 'DevOps Engineer',
     company: 'InfraFlow',
     period: '2023 - Presente',
